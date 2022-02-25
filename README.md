@@ -1,4 +1,4 @@
-![header](./header.png)
+![header](./gitHubHeader.png)
 ### Hi there 👋
 
 <!--
