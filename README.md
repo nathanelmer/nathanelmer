@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning C# and SQL Server
 
-- 📫 How to reach me: 
+- 📫 How to reach me: ⬇️
 - linkedIn: https://www.linkedin.com/in/nathanelmer/
 - email: nelmer12@gmail.com
 
