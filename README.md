@@ -1,7 +1,7 @@
 ![header](./newHeader.png)
 ### Hey 👋
 
-- 🌱 I’m currently learning C# and SQL Server
+- 🌱 I’m an engineer with a skillset of C#/.NET, React, Angular, and more!
 
 - 📫 How to reach me: ⬇️
 - linkedIn: https://www.linkedin.com/in/nathanelmer/
